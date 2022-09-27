@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.9060" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-09-27T06:58:24" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="SLT" timestamp="2022-09-27T06:58:24" tests="2" file="C:\Users\Chaitanya\Downloads\Rebalancing\Rebalancing\test\rebalance.test.js" time="0.8990" failures="0">
+    <testcase name="SLT get rebalance output" time="0.0940" classname="get rebalance output">
+    </testcase>
+    <testcase name="SLT get rebalance output" time="0.8000" classname="get rebalance output">
+    </testcase>
+  </testsuite>
+</testsuites>
